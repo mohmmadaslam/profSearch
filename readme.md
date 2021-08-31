@@ -5,7 +5,7 @@
 
 ![prof_search](./images/first.png)
 
-ProfSearch is a search engine used to search for information aboutthe relevant professor’s research area, basic summary and alsothe rank of professor on the basis of proficiency in their field. Toovercome the above problem we have designed our project thatsearches professors when the user enters the research area andprofessor name. Our project can be helpful to the researchers andthe students who need information about the professors. Usingour App they can search the professor and get a summary of theprofessor.
+ProfSearch is a search engine used to search for information about the relevant professor’s research area, basic summary and also the rank of professor on the basis of proficiency in their field. To overcome the above problem we have designed our project that searches professors when the user enters the research area and professor name. Our project can be helpful to the researchers andthe students who need information about the professors. Using our App they can search the professor and get a summary of the professor.
 
 Project Report : [Link](./data_science_project.pdf)
 Project Slides : [Link](./slides.pdf)
